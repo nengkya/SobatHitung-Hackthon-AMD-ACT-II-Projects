@@ -2,7 +2,7 @@
 
 ---
 
-![Logo_Sobat_Hitung]()
+![Logo_Sobat_Hitung](https://github.com/sirrauf/SobatHitung-Hackthon-AMD-ACT-II-Projects/blob/main/Logo/Logo-SobatHitung.jpg?raw=true)
 
 # SobatHitung - AMD AI Agents Hackathon Project
 
